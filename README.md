@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm a Graduate Student and Data Scientist 👨‍💻 love working with data since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on [Data Science Project](https://github.com/aqnguy30?tab=repositories)  
+- 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories)  
   
 
 - 🌱 I’m currently learning Docker and AWS  
