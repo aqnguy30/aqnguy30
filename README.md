@@ -100,11 +100,14 @@ Here are some ideas to get you started:
 	grid-gap: 50px;
 	justify-content: center;
 	justify-items: center;" >
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqnguy30&show_icons=true&locale=en&layout=compact" alt="aqnguy30" /></p>
 
 <p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aqnguy30&show_icons=true&title_color=8f4242&locale=en" alt="aqnguy30" /></p>
+	
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqnguy30&show_icons=true&locale=en&layout=compact" alt="aqnguy30" /></p>
 
 <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnguy30&" alt="aqnguy30" /></p>
+	
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqnguy30" alt="aqnguy30" /></a> </p>
 </div>
 
 
