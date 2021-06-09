@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://github.com/aqnguy30/aqnguy30/blob/main/hello.gif" align="center" style="width: 100%" />
+<img src="https://github.com/aqnguy30/aqnguy30/blob/main/hell.gif" align="center" style="width: 100%" />
 </div>  
   
 
