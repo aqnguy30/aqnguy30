@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ### <div align="center">I'm a Graduate Student and Data Scientist 👨‍💻 love working with data since 2015 🚀</div>  
   
 
+- 🤔 I’m looking for help with Data Scientist or Data Engineer job offer
+
+
 - 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories)  
   
 
