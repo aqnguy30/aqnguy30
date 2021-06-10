@@ -95,6 +95,10 @@ Here are some ideas to get you started:
 
 - 📫 Fastest to reach me: **quocanh191997@gmail.com**
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=aqnguy30d&&style=flat-square" align="center" />
+</div>  
+
 <br/>
 
 <div style="display: flex;
@@ -111,11 +115,6 @@ Here are some ideas to get you started:
 	
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqnguy30" alt="aqnguy30" /></a> </p>
 </div>
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aqnguy30d&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
