@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker and AWS  
   
 
-- ❓ Ask me about anything related to Data Science and related technologies  
+- ❓ Ask me about anything related to Data Science, Data Engineer and related technologies  
   
 
 - ⚡ Fun fact: my first name - Aspire N Humble :)  
