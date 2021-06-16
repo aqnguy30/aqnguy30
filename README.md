@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about anything related to Data Science, Data Engineer and related technologies  
   
 
-- ⚡ Fun fact: my first name - Aspire N Humble :)  
+- ⚡ Fun fact: my initial first name - Aspire N Humble :)  
   
 
 <br/>  
