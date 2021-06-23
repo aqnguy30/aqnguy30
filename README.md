@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Scientist or Data Engineer job offer
 
 
-- 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories)  
+<!-- - 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories) -->
+
+
+- 🔭 I’m currently working on [Oil & Gas Stock Analysis project](https://github.com/aqnguy30/oil-gas-stock-analysis)  
   
 
 - 🌱 I’m currently learning Docker and AWS  
