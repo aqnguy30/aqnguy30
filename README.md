@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-- 📫 Fastest to reach me: **quocanh191997@gmail.com**
+- 📫 Fastest way to reach me: **quocanh191997@gmail.com**
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aqnguy30d&&style=flat-square" align="center" />
