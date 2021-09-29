@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories) -->
 
 
-- 🔭 I’m currently working on [Oil & Gas Stock Analysis project](https://github.com/aqnguy30/oil-gas-stock-analysis)  
+- 🔭 I’m currently working on [Healthcare Stock Analysis project](https://github.com/aqnguy30/healthcare-stock-analysis)  
   
 
 - 🌱 I’m currently learning Docker and AWS  
