@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm a Master's Graduate, Engineer and Scientist 👨‍💻 love working with data since 2015 🚀</div>  
+### <div align="center">I'm a Master's Graduate, Engineer and Scientist 👨‍💻 love working with data since 2014 🚀</div>  
   
 
 - 🤔 I’m looking for help with Software Engineer, Data Scientist or Data Engineer job offer
